@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Punto2D
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Punto2D\ here.\r\n\ \r\n\ @author\ Mauricio\ Toro\ y\ sus\ amigos\ \r\n\ @version\ 1.0\r\n
+comment1.params=x\ y
+comment1.target=Punto2D(float,\ float)
+comment2.params=otroPunto
+comment2.target=float\ distancia(Punto2D)
+comment3.params=
+comment3.target=float\ getX()
+comment4.params=
+comment4.target=float\ getY()
+comment5.params=
+comment5.target=float\ radio()
+comment6.params=
+comment6.target=float\ angulo()
+numComments=7

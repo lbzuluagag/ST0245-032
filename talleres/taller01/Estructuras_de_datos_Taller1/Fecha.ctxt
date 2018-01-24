@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Fecha
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fecha\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=dia\ mes\ a\u00F1o
+comment1.target=Fecha(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getmes()
+comment3.params=
+comment3.target=int\ getdia()
+comment4.params=
+comment4.target=int\ geta\u00F1o()
+numComments=5
