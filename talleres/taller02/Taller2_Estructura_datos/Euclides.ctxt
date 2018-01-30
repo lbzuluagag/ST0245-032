@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Euclides
+comment1.params=p\ q
+comment1.target=int\ euclides(int,\ int)
+numComments=2
