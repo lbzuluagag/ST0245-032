@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Taller8
+comment0.text=\r\n\r\n\ @author\ \r\n
+comment1.params=
+comment1.target=java.util.Stack\ inversa()
+comment2.params=
+comment2.target=void\ cola()
+comment3.params=string
+comment3.target=int\ polaca(java.lang.String)
+numComments=4
