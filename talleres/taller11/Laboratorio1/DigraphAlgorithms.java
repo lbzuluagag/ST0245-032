@@ -89,9 +89,9 @@ public class DigraphAlgorithms
      dgal.addArc(2,4,2);
      dgal.addArc(3,4,7);
      dgal.addArc(4,3,9);
-     
      System.out.println(getPath(dijsktra(dgal,0),0,3));
-     
+     DigraphAlgorithms a=new DigraphAlgorithms();
+     a.Sucesores(dgal);
      DigraphAM dgam = new DigraphAM(5);
      dgam.addArc(0,1,10);
      dgam.addArc(0,2,3);
@@ -108,4 +108,8 @@ public class DigraphAlgorithms
      DigraphAlgorithms.dibujarGrafo(dgal);
      
  }
+ public int Sucesores(Graph a){
+    
+    return 3;
+    } 
 }
